@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76a3944f-7dd7-4af7-8143-d429f21f6728" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Test.scala" afterDir="false" />
-    </list>
+    <list default="true" id="76a3944f-7dd7-4af7-8143-d429f21f6728" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +44,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/issac/Files/Files/Projects/Mutation_Catcher/MC Catcher"
+    "last_opened_file_path": "C:/Users/issac/Files/Files/Projects/Mutation_Catcher/Project/Mutation_Catcher/MC Catcher"
   }
 }]]></component>
   <component name="RunManager" selected="Application.Test">
